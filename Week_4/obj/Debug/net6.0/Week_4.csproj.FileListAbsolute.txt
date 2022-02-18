@@ -1,0 +1,15 @@
+D:\School\Game Sim\Week_4\obj\Debug\net6.0\Week_4.csproj.AssemblyReference.cache
+D:\School\Game Sim\Week_4\obj\Debug\net6.0\Week_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Game Sim\Week_4\obj\Debug\net6.0\Week_4.AssemblyInfoInputs.cache
+D:\School\Game Sim\Week_4\obj\Debug\net6.0\Week_4.AssemblyInfo.cs
+D:\School\Game Sim\Week_4\obj\Debug\net6.0\Week_4.csproj.CoreCompileInputs.cache
+D:\School\Game Sim\Week_4\bin\Debug\net6.0\Week_4.exe
+D:\School\Game Sim\Week_4\bin\Debug\net6.0\Week_4.deps.json
+D:\School\Game Sim\Week_4\bin\Debug\net6.0\Week_4.runtimeconfig.json
+D:\School\Game Sim\Week_4\bin\Debug\net6.0\Week_4.dll
+D:\School\Game Sim\Week_4\bin\Debug\net6.0\ref\Week_4.dll
+D:\School\Game Sim\Week_4\bin\Debug\net6.0\Week_4.pdb
+D:\School\Game Sim\Week_4\obj\Debug\net6.0\Week_4.dll
+D:\School\Game Sim\Week_4\obj\Debug\net6.0\ref\Week_4.dll
+D:\School\Game Sim\Week_4\obj\Debug\net6.0\Week_4.pdb
+D:\School\Game Sim\Week_4\obj\Debug\net6.0\Week_4.genruntimeconfig.cache
